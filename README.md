@@ -164,7 +164,7 @@ Content-Type: application/json
 Project developed by:
 - [Yassine Boujnan](https://github.com/boujnan03)
 - [WAM](https://github.com/walid-moussa55)
-- [Momoun Ouhda](https://github.com/mimounouhd)
+- [Mimoun Ouhda](https://github.com/mimounouhd)
 - [Mohamed Belghiti Alaoui]()
 - [Meryem Echbab]()
 - [Bouchra Manoussi]()
